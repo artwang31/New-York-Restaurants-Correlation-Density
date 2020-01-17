@@ -1,5 +1,5 @@
 # New-York-Restaurants-Project-Correlation-Density
-COMPLETED project analyzing NY Cities numerous cuisine types, restaurants, and grades.
+COMPLETED project analyzing NY City's numerous cuisine types, restaurants, and grades.
 
 A repository containing the information and documentation for the New York City Restaurants project.
 
